@@ -9,7 +9,7 @@ Program ini dibuat menggunakan bahasa python Dictionary dengan fitur:
 * *Menghapus data mahasiswa:* Pengguna dapat menghapus data mahasiswa yang sudah tidak diperlukan.
 * *Mencari data mahasiswa:* Pengguna dapat mencari data mahasiswa berdasarkan NIM.
 ## Flowchart Programan
-![Flowchart](Gambar/flowchart.png)
+![Flowchart](Gambar/flowchart.jpg)
 # Kode Program
 ```python
 print('\nProgram input nilai')
